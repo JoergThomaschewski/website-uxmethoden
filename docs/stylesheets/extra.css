@@ -1,0 +1,49 @@
+.md-grid {
+  max-width: 1000px; 
+}
+
+.md-content img {
+  border-width: 15px;
+  border-style: solid;
+  border-color: transparent;
+}
+
+/* Light Mode: Ändert die Farbe in der linken Navi */
+a {
+  color: darkblue;
+}
+
+a:hover, a:focus {
+  color: darkorange; 
+}
+
+/* Light Mode: Ändert die Farbe im Text */
+.md-content__inner a {
+  color: darkblue; /* Link-Farbe */
+}
+
+.md-content__inner a:hover,
+.md-content__inner a:focus {
+  color: darkorange; /* Hover-/Fokus-Farbe */
+}
+
+
+/* Dark Mode: Farbe für Links in der linken Navigation */
+[data-md-color-scheme="slate"] .md-nav .md-nav__link {
+  color: lightblue; /* Link-Farbe */
+}
+
+[data-md-color-scheme="slate"] .md-nav .md-nav__link:hover,
+[data-md-color-scheme="slate"] .md-nav .md-nav__link:focus {
+  color: darkorange; /* Hover-/Fokus-Farbe */
+}
+
+/* Dark Mode spezifische Anpassung für Links */
+[data-md-color-scheme="slate"] .md-content__inner a {
+  color: lightblue;
+}
+
+[data-md-color-scheme="slate"] .md-content__inner a:hover,
+[data-md-color-scheme="slate"] .md-content__inner a:focus {
+  color: darkorange; /* Optional: Hover-/Fokus-Farbe */
+}
