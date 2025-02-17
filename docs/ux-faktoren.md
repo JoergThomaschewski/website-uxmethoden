@@ -106,13 +106,12 @@ Empfohlen wird eine Kombination beider Vorgehensweisen. Einerseits sollten die N
 In der Praxis hat sich gezeigt, dass es im Management und im Entwicklungsteam kein einheitliches Verständnis für die **„besonders wichtigen UX-Faktoren“** gibt. Natürlich können diese vom oberen Management festgelegt werden, aber ein besseres Vorgehen ist die Schaffung eines einheitlichen Verständnisses zu den Faktoren im gesamten Entwicklungsteam. So wird empfohlen in einer Methode besstehend aus Fragebogen & Diskussion zunächst ein einheitliches Verständnis zu schaffen. 
 
 ???+ tip "Experten Jörg Thomaschewski, Andreas Hinderks, Dominique Winter"
-    **Jörg Thomaschewski** (<small>Prof. Dr.</small>)![Jörg Thomaschewski](assets/JT-Web.jpg){align=right width="20%"}<br> arbeitet an der Hochschule Emden/Leer und ist Gründer der Forschungsgruppe "Research Group for Agile Software Development and User Experience". Als Mitentwickler der UEQ-Familie (UEQ-S, UEQ+) hat er praxisorientierte Werkzeuge geschaffen, die weltweit zur Analyse und Optimierung der UX eingesetzt werden. Neben seiner akademischen Tätigkeit berät und schult er Unternehmen in den Bereichen UX-Management und agile Methoden. Sein Ziel ist es, Forschung und Praxis zu verbinden, um Unternehmen bei der Entwicklung benutzerzentrierter digitaler Produkte zu unterstützen.
+    --8<-- "joerg_thomaschewski.md"
 
     ---
 
-    **Andreas Hinderks** (<small>Prof. Dr.</small>)![Andreas Hinderks](assets/hinderks-600x679.jpg){align=right width="20%"}<br> arbeitet an der Hochschule Hannover und ist langjähriger Experte im Bereich User Experience (UX). Sein Fokus liegt darauf, UX in Organisationen sichtbar und strategisch nutzbar zu machen. Durch gezielte Methoden aus dem UX-Management unterstützt er Teams dabei, digitale Produkte mit einem hervorragenden Nutzererlebnis zu gestalten. Mit seiner Promotion im Jahr 2021 auf dem Gebiet des UX-Managements und seiner kontinuierlichen Forschung bringt er wissenschaftliche Erkenntnisse in die Praxis ein – sowohl in Unternehmen als auch in der Lehre.
+    --8<-- "andreas_hinderks.md"
 
     ---
 
-    **Dominique Winter** (<small>Doktorand, M.Sc., M.A. (Promotion an der Universität Siegen)</small>)![Dominique Winter](assets/dwinter2-600x652.jpg){align=right width="20%"}<br>
-    ist Experte für die erlebnisorientierte Produktentwicklung und unterstützt Organisationen dabei, begeisternde digitale Produkte zu entwickeln. Er greift dabei auf Methoden aus dem agilen Coaching, dem UX-Management und der kompetenzorientierten Organisationsentwicklung zurück. Praktische Erfahrungen ergänzt er durch Forschung (u.A. Promotion zum Thema UX-Kompetenzen von Organisationen) und verbindet so Theorie und Praxis.  
+    --8<-- "dominique_winter.md"

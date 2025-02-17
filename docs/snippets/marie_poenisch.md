@@ -1,0 +1,1 @@
+**Marie Poenisch** ![Marie Poenisch](/assets/mariepoenisch.jpg){align=right width="20%"}<br> ist Medieninformatikerin mit den Schwerpunkten User Experience, Webentwicklung und Spiele. Sie betreibt den YouTube-Kanal "nordsprech" und schreibt für die Fachzeitschrift "Spielbox" über Brettspiele. Sie arbeitet bei CEWE als Enterprise Developer und User Experience Designerin.

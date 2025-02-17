@@ -73,16 +73,20 @@ Die am Anfang in Level 1 erstellten Personas sind für den gesamten nachfolgende
 
 
 ???+ tip "Experten Jörg Thomaschewski, Andreas Hinderks, Dominique Winter"
-    **Jörg Thomaschewski** (<small>Prof. Dr.</small>)![Jörg Thomaschewski](../assets/JT-Web.jpg){align=right width="20%"}<br> arbeitet an der Hochschule Emden/Leer und ist Gründer der Forschungsgruppe "Research Group for Agile Software Development and User Experience". Als Mitentwickler der UEQ-Familie (UEQ-S, UEQ+) hat er praxisorientierte Werkzeuge geschaffen, die weltweit zur Analyse und Optimierung der UX eingesetzt werden. Neben seiner akademischen Tätigkeit berät und schult er Unternehmen in den Bereichen UX-Management und agile Methoden. Sein Ziel ist es, Forschung und Praxis zu verbinden, um Unternehmen bei der Entwicklung benutzerzentrierter digitaler Produkte zu unterstützen.
+
+
+    --8<-- "joerg_thomaschewski.md"
 
     ---
 
-    **Marie Poenisch** ![Marie Poenisch](../assets/mariepoenisch.jpg){align=right width="20%"}<br> ist Medieninformatikerin mit den Schwerpunkten User Experience, Webentwicklung und Spiele. Sie betreibt den YouTube-Kanal "nordsprech" und schreibt für die Fachzeitschrift "Spielbox" über Brettspiele. Sie arbeitet bei CEWE als Enterprise Developer und User Experience Designerin.
+    --8<-- "marie_poenisch.md"
 
     ---
 
-    **Anika Schmitz**  
-    Anika Schmitz ist Medieninformatikerin und hat in ihrer Bachelorarbeit den ursprünglich von Jörg Thomaschewski entwickelten und erprobten  templatebasierten Prozess zur Durchführung des Human-Centred Designs weiter ausgearbeitet.
+    **Anika Schmitz**<br>ist Medieninformatikerin und hat in ihrer Bachelorarbeit den ursprünglich von Jörg Thomaschewski entwickelten und erprobten templatebasierten Prozess zur Durchführung des Human-Centred Designs weiter ausgearbeitet.
+
+
+ 
 
 
 ??? info "Bildrechte"
